@@ -1,0 +1,9 @@
+create a slack client
+create a vercel client
+
+fetch slack messages and find notion of latest log
+fetch vercel deploys starting from the latest log
+prepare messages for slack
+push messages about logs to slack
+
+run in chrone every minute
